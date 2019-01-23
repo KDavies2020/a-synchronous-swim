@@ -10,7 +10,7 @@ module.exports = (req, res) => {
 
     res.writeHead(200, headers);
     res.end(randomize());
-    //console.log(req.url.slice(2))
+    console.log(req.url)
 
 };
 
