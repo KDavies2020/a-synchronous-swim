@@ -30,3 +30,7 @@
 .turn-down {
   transform: rotate(270deg);
 }
+.arbSwimMove{
+  width: 25%;
+  background-color: lightblue;
+}

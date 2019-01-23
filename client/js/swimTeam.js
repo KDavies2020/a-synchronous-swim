@@ -52,7 +52,8 @@ const SwimTeam = {
         SwimTeam.coords.left += 5;
       }
       break;
-    } 
+    }
   }
 
 };
+
